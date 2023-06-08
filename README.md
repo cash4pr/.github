@@ -1,11 +1,10 @@
-# .github
-💡 Our mission: 
+# 💡 Our mission: 
 To provide fair and transparent cash rewards for every high-quality Pull Request on GitHub.
 
-✨ Our Vision: 
+# ✨ Our Vision: 
 To establish a fair, transparent, and sustainable ecosystem for rewarding open-source contributions.
 
-🚀 Our approach:
+# 🚀 Our approach:
 Through cash rewards, we collect innovative funding mechanisms from across the web, collaboratively exploring innovative solutions to address funding challenges in open-source projects and ensure the continuous distribution of rewards and the stable operation of the system.
 
 
